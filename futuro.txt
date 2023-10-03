@@ -1,0 +1,15 @@
+#EXTM3U
+#EXTINF:-1
+https://vs.ariuli.com/hls/a609/0301/video_360p.mp4/index-v1.m3u8
+#EXTINF:-2
+https://vs.rxdks.com/hls/9829/02b1/video_464p.mp4/index-v1-a1.m3u8
+#EXTINF:-bar
+https://use01-smr05-relay.ozolio.com/hls-live/_definst_/smil:relay01.ehyzdpo.fd0.sm1.av2.mt1.at0.as1.sh2.rt2733.rc0.smil/chunklist_w1686717646_b3096000.m3u8
+#EXTINF:3
+https://hd-auth.skylinewebcams.com/live.m3u8?a=84he23qgl7sn9mntf90ujr3mt1
+#EXTINF:4
+https://vs.tlesu.com/hls/55fa/023b/video_240p.mp4/index-v1-a1.m3u8
+#EXTINF:5
+https://vs.tsnel.com/hls/a5c6/0110/video_432p.mp4/index-v1-a1.m3u8
+
+
